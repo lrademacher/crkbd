@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "gateron")(type "KiCad")(uri "/home/lars/Projects/crkbd/corne-light/pcb/Gateron-Low-profile-KiCad-master/gateronLowProfile.pretty")(options "")(descr ""))
+  (lib (name "Gateron")(type "KiCad")(uri "${KIPRJMOD}/Gateron.pretty")(options "")(descr ""))
+)
