@@ -2365,7 +2365,7 @@
     (pin "8" (uuid 1412d234-cb19-4bad-b0fa-d26fb21afb37))
     (pin "9" (uuid bb88fba4-91f3-4c68-9c0d-ef68cb8ec327))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "U1") (unit 1)
         )
@@ -2382,7 +2382,7 @@
     (property "Value" "SW_PUSH" (at 162.56 28.702 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 162.56 26.67 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 162.56 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 162.56 26.67 0)
@@ -2391,7 +2391,7 @@
     (pin "1" (uuid 6c196677-bb5c-4203-889d-f4c27a087327))
     (pin "2" (uuid d69d3215-4e59-4718-89c1-c134289c9410))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW2") (unit 1)
         )
@@ -2417,7 +2417,7 @@
     (pin "1" (uuid 1f4fc8ac-1c74-43cb-8cac-aae197884114))
     (pin "2" (uuid 23303534-dc7d-4395-aacd-9273adfaf6b8))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D2") (unit 1)
         )
@@ -2434,7 +2434,7 @@
     (property "Value" "SW_PUSH" (at 180.34 28.702 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 180.34 26.67 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 180.34 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 180.34 26.67 0)
@@ -2443,7 +2443,7 @@
     (pin "1" (uuid 131c5763-8255-4f9f-afee-30f3b6ab2a1f))
     (pin "2" (uuid 4b9c48e2-6b26-43ed-9da0-14c4b9f3994c))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW3") (unit 1)
         )
@@ -2469,7 +2469,7 @@
     (pin "1" (uuid 30f5ec46-a6b4-4e00-99fc-60e13f51e73b))
     (pin "2" (uuid 293e2618-ecef-4ef4-a389-4b59c5d9ae7f))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D3") (unit 1)
         )
@@ -2486,7 +2486,7 @@
     (property "Value" "SW_PUSH" (at 198.12 28.702 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 198.12 26.67 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 198.12 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 198.12 26.67 0)
@@ -2495,7 +2495,7 @@
     (pin "1" (uuid ee5bbfa5-78de-4fc6-b62f-6f3f013ca889))
     (pin "2" (uuid aeb87d06-2596-43b0-a886-b129eb0345f9))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW4") (unit 1)
         )
@@ -2512,7 +2512,7 @@
     (property "Value" "SW_PUSH" (at 215.9 28.702 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 215.9 26.67 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 215.9 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 215.9 26.67 0)
@@ -2521,7 +2521,7 @@
     (pin "1" (uuid 150b5e4d-d590-45c4-9a5b-df5a205d83f6))
     (pin "2" (uuid 0c9341d4-cbda-4eea-abb5-33027521e5fa))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW5") (unit 1)
         )
@@ -2538,7 +2538,7 @@
     (property "Value" "SW_PUSH" (at 233.68 28.702 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 233.68 26.67 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 233.68 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 233.68 26.67 0)
@@ -2547,7 +2547,7 @@
     (pin "1" (uuid 06957977-56f4-4255-9561-b4b4dd59c130))
     (pin "2" (uuid e047eec1-27db-4a1c-a37a-db551447c256))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW6") (unit 1)
         )
@@ -2573,7 +2573,7 @@
     (pin "1" (uuid 4cd42eef-1711-479c-bcc2-90cd8ac97093))
     (pin "2" (uuid 4430804f-7fbc-4961-9890-bf9397da4313))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D4") (unit 1)
         )
@@ -2599,7 +2599,7 @@
     (pin "1" (uuid 7a4200f8-af87-4f5f-841b-9eebd2470e31))
     (pin "2" (uuid 423d75fe-517f-47de-9740-7f81eca012dc))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D5") (unit 1)
         )
@@ -2625,7 +2625,7 @@
     (pin "1" (uuid fc24e6dc-7fb0-4199-9511-fe5a4490a361))
     (pin "2" (uuid 167c2731-db6a-4cbe-b13b-14240f99be73))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D6") (unit 1)
         )
@@ -2642,7 +2642,7 @@
     (property "Value" "SW_PUSH" (at 144.78 28.702 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 144.78 26.67 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 144.78 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 144.78 26.67 0)
@@ -2651,7 +2651,7 @@
     (pin "1" (uuid 8840cc74-3048-4cad-a2bf-8f40928ef55d))
     (pin "2" (uuid 731ac682-5800-43bc-b75d-5a6c1a6fe1f6))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW1") (unit 1)
         )
@@ -2677,7 +2677,7 @@
     (pin "1" (uuid 211c0a56-b2e8-4e72-b971-d3455ce37b1b))
     (pin "2" (uuid f7865143-e9a6-424b-86ec-f32255cbb6e4))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D1") (unit 1)
         )
@@ -2694,7 +2694,7 @@
     (property "Value" "SW_PUSH" (at 162.56 43.942 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 162.56 41.91 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 162.56 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 162.56 41.91 0)
@@ -2703,7 +2703,7 @@
     (pin "1" (uuid f88db90d-5e8e-4fe7-91b2-32822886175e))
     (pin "2" (uuid d3a9c581-4f04-46ab-bdf4-3758978bdbdc))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW8") (unit 1)
         )
@@ -2729,7 +2729,7 @@
     (pin "1" (uuid 362f0d55-49ac-438a-bf89-d250fa25130a))
     (pin "2" (uuid 78cb312a-317c-4796-bac6-8b96ee884028))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D8") (unit 1)
         )
@@ -2746,7 +2746,7 @@
     (property "Value" "SW_PUSH" (at 180.34 43.942 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 180.34 41.91 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 180.34 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 180.34 41.91 0)
@@ -2755,7 +2755,7 @@
     (pin "1" (uuid b15cb7ac-bf2a-4747-b44f-8944181e4cc1))
     (pin "2" (uuid 6ab18cef-5d7c-4584-b49c-7c0f5a60e8fb))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW9") (unit 1)
         )
@@ -2781,7 +2781,7 @@
     (pin "1" (uuid 0311b9c2-e957-4e99-be09-6cc85d0f7598))
     (pin "2" (uuid 94446a5b-1ff4-458f-afcb-f390f016b4a6))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D9") (unit 1)
         )
@@ -2798,7 +2798,7 @@
     (property "Value" "SW_PUSH" (at 198.12 43.942 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 198.12 41.91 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 198.12 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 198.12 41.91 0)
@@ -2807,7 +2807,7 @@
     (pin "1" (uuid 415294ad-03bc-4082-847d-04c9c596c97f))
     (pin "2" (uuid 4e602d13-a0a0-4370-bd9c-2cf88f235449))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW10") (unit 1)
         )
@@ -2824,7 +2824,7 @@
     (property "Value" "SW_PUSH" (at 215.9 43.942 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 215.9 41.91 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 215.9 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 215.9 41.91 0)
@@ -2833,7 +2833,7 @@
     (pin "1" (uuid 0fefeb54-641d-4110-a8ea-d01ab1cbe81f))
     (pin "2" (uuid 1ce095d9-c3e8-426f-a1ba-edfa93ae947e))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW11") (unit 1)
         )
@@ -2850,7 +2850,7 @@
     (property "Value" "SW_PUSH" (at 233.68 43.942 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 233.68 41.91 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 233.68 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 233.68 41.91 0)
@@ -2859,7 +2859,7 @@
     (pin "1" (uuid b0d5a928-31a2-4b98-a130-c2f42d1342c4))
     (pin "2" (uuid 7c388dc8-b333-4a50-ac24-d1626bcc24b2))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW12") (unit 1)
         )
@@ -2885,7 +2885,7 @@
     (pin "1" (uuid f41288b8-f036-4e19-843d-ecd78fc70fba))
     (pin "2" (uuid 44bc599c-883c-4599-8b5d-7b9dd289784e))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D10") (unit 1)
         )
@@ -2911,7 +2911,7 @@
     (pin "1" (uuid 065e24b9-e173-468d-8fee-cbab0627b4d1))
     (pin "2" (uuid 7ff8d873-9684-4367-b469-81099cd44e24))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D11") (unit 1)
         )
@@ -2937,7 +2937,7 @@
     (pin "1" (uuid f525081c-7a3c-4b43-9c84-6722969b5fbc))
     (pin "2" (uuid 475c0bf4-eb4d-4688-8e30-d21bd67b315d))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D12") (unit 1)
         )
@@ -2954,7 +2954,7 @@
     (property "Value" "SW_PUSH" (at 144.78 43.942 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 144.78 41.91 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 144.78 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 144.78 41.91 0)
@@ -2963,7 +2963,7 @@
     (pin "1" (uuid a2ea035e-1611-46c9-a960-a741950072e2))
     (pin "2" (uuid 4a91d4a6-0828-42c5-85dd-ccdf4d6215b1))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW7") (unit 1)
         )
@@ -2989,7 +2989,7 @@
     (pin "1" (uuid 01a8540d-95ce-4921-82a9-7e0d25e1ab21))
     (pin "2" (uuid 7886dd42-c69c-45ec-aa6e-9c619ff0f5d0))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D7") (unit 1)
         )
@@ -3006,7 +3006,7 @@
     (property "Value" "SW_PUSH" (at 162.56 59.182 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 162.56 57.15 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 162.56 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 162.56 57.15 0)
@@ -3015,7 +3015,7 @@
     (pin "1" (uuid 18d42310-047d-4b3c-befc-2991e5fcb247))
     (pin "2" (uuid eb11db4c-6da1-4dbe-b8cc-8dda81196c78))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW14") (unit 1)
         )
@@ -3041,7 +3041,7 @@
     (pin "1" (uuid c8acbc66-421c-4cdf-96ed-b78f481c3cff))
     (pin "2" (uuid f5b36d85-a3bf-4e22-99eb-eb95d8f3a897))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D14") (unit 1)
         )
@@ -3058,7 +3058,7 @@
     (property "Value" "SW_PUSH" (at 180.34 59.182 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 180.34 57.15 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 180.34 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 180.34 57.15 0)
@@ -3067,7 +3067,7 @@
     (pin "1" (uuid b19f8b0d-7dd0-48ab-93be-efd889008bd8))
     (pin "2" (uuid 8b47548b-898e-47c6-ac72-88bd8834ff38))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW15") (unit 1)
         )
@@ -3093,7 +3093,7 @@
     (pin "1" (uuid c8fb9bd8-95d9-4bf8-93b0-d974482db019))
     (pin "2" (uuid ac2213f1-6fda-44a3-b0b9-fab0eb49f579))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D15") (unit 1)
         )
@@ -3110,7 +3110,7 @@
     (property "Value" "SW_PUSH" (at 198.12 59.182 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 198.12 57.15 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 198.12 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 198.12 57.15 0)
@@ -3119,7 +3119,7 @@
     (pin "1" (uuid 08f0f284-78eb-4d02-9bd5-607627b3f0c6))
     (pin "2" (uuid aff31947-eb34-459f-ab05-05c068c568ac))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW16") (unit 1)
         )
@@ -3136,7 +3136,7 @@
     (property "Value" "SW_PUSH" (at 215.9 59.182 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 215.9 57.15 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 215.9 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 215.9 57.15 0)
@@ -3145,7 +3145,7 @@
     (pin "1" (uuid 83bf1098-5419-4464-8c68-dbab7443fa7d))
     (pin "2" (uuid 1fd71b51-6c35-4d04-b770-442c7263506f))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW17") (unit 1)
         )
@@ -3162,7 +3162,7 @@
     (property "Value" "SW_PUSH" (at 233.68 59.182 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 233.68 57.15 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 233.68 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 233.68 57.15 0)
@@ -3171,7 +3171,7 @@
     (pin "1" (uuid 21ac9268-448d-43e4-8a45-b40e4111ddcc))
     (pin "2" (uuid ab8fa87d-505f-47e7-a36d-d855ce0b191b))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW18") (unit 1)
         )
@@ -3197,7 +3197,7 @@
     (pin "1" (uuid aa177804-ead2-4e92-bdbb-33c939dd7063))
     (pin "2" (uuid c5734c99-e8c9-42de-9999-f20c7724b8d6))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D16") (unit 1)
         )
@@ -3223,7 +3223,7 @@
     (pin "1" (uuid 8c042b06-28de-4523-81a6-3abdd357a3c0))
     (pin "2" (uuid f579ea22-eaf7-4edb-a580-b2beb3c23833))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D17") (unit 1)
         )
@@ -3249,7 +3249,7 @@
     (pin "1" (uuid d3d76115-975c-40b3-b7c4-0988ecfaacbd))
     (pin "2" (uuid 8034035c-26de-4baf-af9b-9199f8555699))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D18") (unit 1)
         )
@@ -3266,7 +3266,7 @@
     (property "Value" "SW_PUSH" (at 144.78 59.182 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 144.78 57.15 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 144.78 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 144.78 57.15 0)
@@ -3275,7 +3275,7 @@
     (pin "1" (uuid 282d3e3c-2c99-4f3b-a3c9-5c8e8a03c985))
     (pin "2" (uuid 63d977b1-44d0-4a63-babf-3feb2559f2ec))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW13") (unit 1)
         )
@@ -3301,7 +3301,7 @@
     (pin "1" (uuid 6eae66ba-fff5-457e-a397-203929eb09d0))
     (pin "2" (uuid 8b861f77-e6c6-4d55-bdc9-6716299d46bb))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D13") (unit 1)
         )
@@ -3318,7 +3318,7 @@
     (property "Value" "SW_PUSH" (at 215.9 74.422 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 215.9 72.39 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 215.9 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 215.9 72.39 0)
@@ -3327,7 +3327,7 @@
     (pin "1" (uuid 675d575d-8b48-4431-b257-92ab903b26d8))
     (pin "2" (uuid 5b1d79bc-8e21-4f3f-a98a-5d95e0dba7cc))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW20") (unit 1)
         )
@@ -3353,7 +3353,7 @@
     (pin "1" (uuid a4591de5-193b-4e24-9c87-73aa77bed473))
     (pin "2" (uuid f4b2ebce-01de-457a-8646-1324e9b91b1f))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D20") (unit 1)
         )
@@ -3370,7 +3370,7 @@
     (property "Value" "SW_PUSH" (at 233.68 74.422 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 233.68 72.39 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 233.68 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 233.68 72.39 0)
@@ -3379,7 +3379,7 @@
     (pin "1" (uuid 6df70afb-06ac-40c7-b869-e563d290b5f2))
     (pin "2" (uuid 7f465a57-5a6d-45af-a7a7-55c131aa6eaf))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW21") (unit 1)
         )
@@ -3405,7 +3405,7 @@
     (pin "1" (uuid e54b5457-c212-42fe-8d16-850c61997f63))
     (pin "2" (uuid dea07ca9-1516-4e19-8723-79af7f08f398))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D21") (unit 1)
         )
@@ -3422,7 +3422,7 @@
     (property "Value" "SW_PUSH" (at 198.12 74.422 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "gateron:Gateron_low_profile_noled_reversible_bighole" (at 198.12 72.39 0)
+    (property "Footprint" "Gateron:Gateron_low_profile_noled_reversible_bighole" (at 198.12 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 198.12 72.39 0)
@@ -3431,7 +3431,7 @@
     (pin "1" (uuid be308d42-4cbf-4c8b-8850-a12aca60bf7e))
     (pin "2" (uuid 9f03921a-148a-4c97-82f4-52f81ec414ca))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "SW19") (unit 1)
         )
@@ -3457,7 +3457,7 @@
     (pin "1" (uuid 028472e3-ae99-432b-9eff-0986eafa93ec))
     (pin "2" (uuid 23a44d4a-81d0-4579-93a7-aba04faefdc5))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "D19") (unit 1)
         )
@@ -3482,7 +3482,7 @@
     )
     (pin "1" (uuid bf0fff12-c316-4d88-bb94-3870f9f065fb))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR03") (unit 1)
         )
@@ -3507,7 +3507,7 @@
     )
     (pin "1" (uuid 41fb2ccc-c539-469a-b904-9dd9796c14f1))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR05") (unit 1)
         )
@@ -3532,7 +3532,7 @@
     )
     (pin "1" (uuid 8cc0877e-9b65-4817-99b0-1ff6f815b571))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR04") (unit 1)
         )
@@ -3557,7 +3557,7 @@
     )
     (pin "1" (uuid df630c64-444e-4ae3-a01a-8c55bcc5475d))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR01") (unit 1)
         )
@@ -3582,7 +3582,7 @@
     )
     (pin "1" (uuid a785f66b-26e6-4293-84df-88f47d0e0dd7))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR02") (unit 1)
         )
@@ -3607,7 +3607,7 @@
     )
     (pin "1" (uuid d6405b85-3c92-4fcc-9d25-0721aea7779a))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#FLG02") (unit 1)
         )
@@ -3632,7 +3632,7 @@
     )
     (pin "1" (uuid 666cc905-1870-479b-83e5-ff0e9efe8e71))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#FLG01") (unit 1)
         )
@@ -3658,7 +3658,7 @@
     (pin "1" (uuid a06fda36-7f4b-40bd-8b4d-941ef2f732c8))
     (pin "2" (uuid 0b9d75fb-77b1-4cb0-b023-9e6e21a1ff71))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "RSW1") (unit 1)
         )
@@ -3683,7 +3683,7 @@
     )
     (pin "1" (uuid 06a2d095-1720-4b56-846d-be13e96a4b06))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR07") (unit 1)
         )
@@ -3709,7 +3709,7 @@
     (pin "1" (uuid 90f3f9e2-c4bd-4b63-85aa-07271539f7d7))
     (pin "2" (uuid 0b98bb04-c2ec-4c8a-ab2a-a54d7fb91a58))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "JP1") (unit 1)
         )
@@ -3734,7 +3734,7 @@
     )
     (pin "1" (uuid 2a1b6fbb-7bd9-4eb6-8b53-d9c36bcdcb62))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR06") (unit 1)
         )
@@ -3759,7 +3759,7 @@
     )
     (pin "1" (uuid 03390ee3-638e-4e37-b5df-1e862d0312a3))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR08") (unit 1)
         )
@@ -3787,7 +3787,7 @@
     (pin "3" (uuid 8683680d-18ab-4c05-afaa-8f6e96671b13))
     (pin "4" (uuid 09eed29e-3836-4013-8037-a2e70d0b7294))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L8") (unit 1)
         )
@@ -3815,7 +3815,7 @@
     (pin "3" (uuid 097f8c95-a2b1-46a0-9a65-b9015851ea50))
     (pin "4" (uuid af79d250-235e-4130-8b2b-f641c4150d65))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L9") (unit 1)
         )
@@ -3843,7 +3843,7 @@
     (pin "3" (uuid fec7b2f3-62a4-47eb-8cca-9cafd8b1eee2))
     (pin "4" (uuid 977d9391-4257-49e2-abc8-81898b043b61))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L10") (unit 1)
         )
@@ -3871,7 +3871,7 @@
     (pin "3" (uuid 1dca7898-838e-4dab-9ab9-a3ca3ff3bf90))
     (pin "4" (uuid 7da2f91a-4aa1-46e3-8613-997f75b91db4))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L11") (unit 1)
         )
@@ -3899,7 +3899,7 @@
     (pin "3" (uuid 31d993a1-fd74-4190-8232-edf23bb38a33))
     (pin "4" (uuid 41ee410d-b3a4-4616-9425-b913c5c9df83))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L12") (unit 1)
         )
@@ -3927,7 +3927,7 @@
     (pin "3" (uuid 997474c1-6280-4a13-850a-5287c7ac5ca6))
     (pin "4" (uuid 428ef771-9bd4-4700-973c-c4b31c6a73b3))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L7") (unit 1)
         )
@@ -3955,7 +3955,7 @@
     (pin "3" (uuid 9534f4a1-d434-499a-988b-5cfe58f748af))
     (pin "4" (uuid 5cc41e76-43f4-4be4-8af5-424ba64d4492))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L14") (unit 1)
         )
@@ -3983,7 +3983,7 @@
     (pin "3" (uuid 6a37962d-071d-4478-951d-d95604a142b0))
     (pin "4" (uuid 8109a301-8df5-4811-b0c2-1b87f89bc624))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L15") (unit 1)
         )
@@ -4011,7 +4011,7 @@
     (pin "3" (uuid 3bdcce5e-ca29-428f-9f7f-5205c7354015))
     (pin "4" (uuid befca3ad-bf93-45a7-9b1b-d744cf9c0ba0))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L16") (unit 1)
         )
@@ -4039,7 +4039,7 @@
     (pin "3" (uuid 1c74c1a3-f910-4e8c-9c16-7403a8f00c5b))
     (pin "4" (uuid daf2ff54-7688-434d-8660-45283943582a))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L17") (unit 1)
         )
@@ -4067,7 +4067,7 @@
     (pin "3" (uuid a2666dbb-50f7-4887-962f-46cd0694869a))
     (pin "4" (uuid 01f43017-ea31-4a7b-bbc9-10068fd8499c))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L18") (unit 1)
         )
@@ -4095,7 +4095,7 @@
     (pin "3" (uuid 60dd12fa-12f0-4d25-aca7-4eb346f32fab))
     (pin "4" (uuid 39161086-dabb-4eb4-997b-df589221de89))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L13") (unit 1)
         )
@@ -4123,7 +4123,7 @@
     (pin "3" (uuid 0d6d69e3-d4b1-4c8e-8307-fc3c8f26a2e4))
     (pin "4" (uuid 8a1a560b-1209-47d0-8a8d-fa4b607a2174))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L20") (unit 1)
         )
@@ -4151,7 +4151,7 @@
     (pin "3" (uuid 250d2d54-5305-4d4c-816c-effaf8dc630a))
     (pin "4" (uuid fe5a4b14-daa3-45d9-9b3d-ccf928ac66b1))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L21") (unit 1)
         )
@@ -4179,7 +4179,7 @@
     (pin "3" (uuid 86329cd1-2cac-4968-a151-e458bae6f7bc))
     (pin "4" (uuid 76f762f2-0e1e-44a2-9975-b02e51b7e89b))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L22") (unit 1)
         )
@@ -4207,7 +4207,7 @@
     (pin "3" (uuid ab6ed195-95f4-48fc-88ee-e9d854373c17))
     (pin "4" (uuid 5d89550d-baf4-40f5-9caa-75003bf44871))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L23") (unit 1)
         )
@@ -4235,7 +4235,7 @@
     (pin "3" (uuid 5f82f930-8622-4a51-986f-bb7af1f43d70))
     (pin "4" (uuid dba43833-6cdc-49bc-9f0d-fa67ff8ec879))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L24") (unit 1)
         )
@@ -4263,7 +4263,7 @@
     (pin "3" (uuid c3987341-62b8-451b-9dc1-0547cb44f5a3))
     (pin "4" (uuid 2803f33c-287a-4fe6-9be5-b0b9b8e77c7b))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L19") (unit 1)
         )
@@ -4291,7 +4291,7 @@
     (pin "3" (uuid 54d27477-1f0a-4c46-84b0-4485d1ad61a0))
     (pin "4" (uuid baaa2f68-ce0b-4b36-8c54-106ec28aae11))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L26") (unit 1)
         )
@@ -4319,7 +4319,7 @@
     (pin "3" (uuid 3bc6b163-eee1-4893-8257-fd726d74844c))
     (pin "4" (uuid 69813de5-a360-41a2-9f01-1b296bddc7de))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L27") (unit 1)
         )
@@ -4347,7 +4347,7 @@
     (pin "3" (uuid 8e7939b9-bd62-453e-a8e4-b1d9a734b13e))
     (pin "4" (uuid dfb0bb3c-0ceb-49d5-b4e6-35d9a69a286e))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L25") (unit 1)
         )
@@ -4375,7 +4375,7 @@
     (pin "3" (uuid 1afababc-25d6-4ccc-94a4-b1dd7c62eb36))
     (pin "4" (uuid 4bcd87ce-d69d-47f7-be99-312563913102))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "J2") (unit 1)
         )
@@ -4401,7 +4401,7 @@
     (pin "1" (uuid 971b1409-a41f-4290-b967-544d6aec7847))
     (pin "2" (uuid 08b2460b-53ec-489f-bcdd-5fb10805131c))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "JP2") (unit 1)
         )
@@ -4427,7 +4427,7 @@
     (pin "1" (uuid 2b70c890-0509-40e1-a2c9-d626ea095c8a))
     (pin "2" (uuid bee72e9e-69fe-4359-b438-271d271b5166))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "JP3") (unit 1)
         )
@@ -4453,7 +4453,7 @@
     (pin "1" (uuid 41fd0239-77d6-402c-8c54-b351f9ada725))
     (pin "2" (uuid e0f10985-2725-4ad0-951d-f7978259e674))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "JP4") (unit 1)
         )
@@ -4479,7 +4479,7 @@
     (pin "1" (uuid f0675d82-0360-40ed-95a2-83168bba046e))
     (pin "2" (uuid 49110281-c44a-4d15-98bf-85a965cd2072))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "JP5") (unit 1)
         )
@@ -4505,7 +4505,7 @@
     (pin "1" (uuid bf45b83e-844d-4aad-89db-81cc9ccfe454))
     (pin "2" (uuid ae0bd3fa-8f38-4289-9a3c-6fc151decf53))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "JP6") (unit 1)
         )
@@ -4531,7 +4531,7 @@
     (pin "1" (uuid e1375d61-e74f-4e08-9485-060193417a16))
     (pin "2" (uuid f9f6812f-f783-4259-8c9b-b0f3ade0f325))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "JP7") (unit 1)
         )
@@ -4557,7 +4557,7 @@
     (pin "1" (uuid 2d42a080-35d9-4a8e-87ca-afb0e881e8e9))
     (pin "2" (uuid 2cad7c2b-e606-409a-8eae-6f79cc081a98))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "JP8") (unit 1)
         )
@@ -4583,7 +4583,7 @@
     (pin "1" (uuid 0b002487-6128-4f0a-843d-f4706452fb94))
     (pin "2" (uuid 40f368bd-96a8-40b8-ba63-911e2eed899d))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "JP9") (unit 1)
         )
@@ -4608,7 +4608,7 @@
     )
     (pin "1" (uuid cdc1a237-2856-4750-9143-2bdf9401b5d4))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR011") (unit 1)
         )
@@ -4633,7 +4633,7 @@
     )
     (pin "1" (uuid 4ef04f64-012d-4a4f-b250-c9971305a5ac))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR019") (unit 1)
         )
@@ -4658,7 +4658,7 @@
     )
     (pin "1" (uuid 9bfb2ae0-6284-4738-b330-f22719077da9))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR012") (unit 1)
         )
@@ -4683,7 +4683,7 @@
     )
     (pin "1" (uuid 60b73478-bd58-4b41-ba86-51aba37005b8))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR018") (unit 1)
         )
@@ -4708,7 +4708,7 @@
     )
     (pin "1" (uuid 51022562-28c0-4c73-a5fc-7d520252f245))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR017") (unit 1)
         )
@@ -4733,7 +4733,7 @@
     )
     (pin "1" (uuid 0f2f5638-1fde-43c6-aef8-fea247baacbd))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR016") (unit 1)
         )
@@ -4758,7 +4758,7 @@
     )
     (pin "1" (uuid 8f1b6530-be60-4850-aed2-fb0911f8ab5a))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR015") (unit 1)
         )
@@ -4783,7 +4783,7 @@
     )
     (pin "1" (uuid 3f433b31-2468-43e8-99f9-b8b24cd97407))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR014") (unit 1)
         )
@@ -4808,7 +4808,7 @@
     )
     (pin "1" (uuid 01b6c774-f75d-4f21-aac4-df84747f7bce))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR026") (unit 1)
         )
@@ -4833,7 +4833,7 @@
     )
     (pin "1" (uuid 5f8abeb6-51ea-4d7c-9efa-dab259bb2804))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR025") (unit 1)
         )
@@ -4858,7 +4858,7 @@
     )
     (pin "1" (uuid 4fe1d689-2333-4f3b-9492-a795ab88db1f))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR022") (unit 1)
         )
@@ -4884,7 +4884,7 @@
     (pin "1" (uuid 648ce26f-6020-40a6-a485-84a17a7e2ddb))
     (pin "2" (uuid 8c26ca65-3c80-408f-a643-a8d06aecd0a1))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "R1") (unit 1)
         )
@@ -4910,7 +4910,7 @@
     (pin "1" (uuid 232cbad6-67d1-4612-a2a4-aa7434fe866d))
     (pin "2" (uuid 5e2d6440-c28f-47e6-bd7c-c4319e1767d5))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "R2") (unit 1)
         )
@@ -4935,7 +4935,7 @@
     )
     (pin "1" (uuid 5546f1c3-70fe-442c-b5cc-d8081a8fbe42))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR020") (unit 1)
         )
@@ -4960,7 +4960,7 @@
     )
     (pin "1" (uuid 1e1310db-de5f-46b7-8fc8-40eb95299941))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR021") (unit 1)
         )
@@ -4987,7 +4987,7 @@
     (pin "2" (uuid c545ee87-74ab-4a10-9f5c-33400e5835b4))
     (pin "3" (uuid c8d14eae-f653-4668-a944-bbf4d8ff213c))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "J3") (unit 1)
         )
@@ -5012,7 +5012,7 @@
     )
     (pin "1" (uuid 2ca11061-30b5-4e66-b131-743f3392885a))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR023") (unit 1)
         )
@@ -5037,7 +5037,7 @@
     )
     (pin "1" (uuid 71fba181-37d6-499a-8e21-9779716a4c3b))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR024") (unit 1)
         )
@@ -5065,7 +5065,7 @@
     (pin "C" (uuid 48b6023d-ac13-4f02-9a23-70c213d3e080))
     (pin "D" (uuid 72705cb1-3819-473a-a22a-620100433dc1))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "J1") (unit 1)
         )
@@ -5090,7 +5090,7 @@
     )
     (pin "1" (uuid 75e05116-50a6-4f2e-b65c-61d0f4643b44))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "P2") (unit 1)
         )
@@ -5115,7 +5115,7 @@
     )
     (pin "1" (uuid d09b5f77-8ffe-4897-8851-fc4f6a602edc))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "P1") (unit 1)
         )
@@ -5143,7 +5143,7 @@
     (pin "3" (uuid 09b7ce86-de7d-465d-a5b3-4d1f6262f0ec))
     (pin "4" (uuid 0503781b-4a6e-423a-8f25-6bd6de576acd))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L3") (unit 1)
         )
@@ -5171,7 +5171,7 @@
     (pin "3" (uuid cdcc3736-4245-476f-a79f-90cd192752f7))
     (pin "4" (uuid 4bd18355-75bb-4004-b963-356407b6f7d8))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L2") (unit 1)
         )
@@ -5199,7 +5199,7 @@
     (pin "3" (uuid 5479fd6c-c12e-424e-917b-a9dc932dfeb3))
     (pin "4" (uuid 2207c4bb-368b-4e0a-99b5-ab0b1e8d4aab))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L1") (unit 1)
         )
@@ -5227,7 +5227,7 @@
     (pin "3" (uuid ed9f03f2-c755-4a82-839c-4150cf9d9478))
     (pin "4" (uuid 0b7f57eb-b8df-43bc-938b-dd0ae13604ab))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L6") (unit 1)
         )
@@ -5255,7 +5255,7 @@
     (pin "3" (uuid 15ba36f4-7e3a-4a5c-8f25-0cf57e00507d))
     (pin "4" (uuid 2bd393fc-a6b8-4c60-96a0-2ad476b76ae5))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L5") (unit 1)
         )
@@ -5283,7 +5283,7 @@
     (pin "3" (uuid 2f7e44ce-e79d-48a4-a716-a37a0e1f9e1f))
     (pin "4" (uuid 0c9bc9c3-b13f-44d8-adf1-14092fd3a4e4))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "L4") (unit 1)
         )
@@ -5308,7 +5308,7 @@
     )
     (pin "1" (uuid 659162b7-f7a9-46f4-a077-c17e3f1df940))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR09") (unit 1)
         )
@@ -5333,7 +5333,7 @@
     )
     (pin "1" (uuid 48e5a3ae-5d2f-4ec3-8631-737694b3a115))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR013") (unit 1)
         )
@@ -5358,7 +5358,7 @@
     )
     (pin "1" (uuid eebb7b7f-c127-4f62-a8f7-7cecf0723604))
     (instances
-      (project "corne-classic"
+      (project "corne-classic_gateron_low"
         (path "/58178a87-b9e0-43ed-818f-f084dd006382"
           (reference "#PWR010") (unit 1)
         )
